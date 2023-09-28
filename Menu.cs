@@ -1,6 +1,6 @@
 ﻿namespace Assignment41555qqq
 {
-    internal class Program
+    internal class Programq
     {
         static void Main(string[] args)
         {
