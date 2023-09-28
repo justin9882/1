@@ -1,4 +1,4 @@
-﻿namespace Assignment41555
+﻿namespace Assignment41555qqq
 {
     internal class Program
     {
