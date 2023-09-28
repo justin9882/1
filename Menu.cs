@@ -1,4 +1,4 @@
-﻿namespace Assignment41
+﻿namespace Assignment41q
 {
     internal class Program
     {
